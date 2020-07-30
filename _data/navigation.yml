@@ -1,0 +1,17 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/ica-logo.svg
+
+links:
+  - title: FAQ
+    url: /faq/
+  - title: Who We Are
+    collection: who-we-are
+  - title: Careers
+    collection: careers
+  - title: News And Publications
+    resource_room: true
