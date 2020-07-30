@@ -1,4 +1,4 @@
 ---
-title: Scholarships Sponsorships And Internships
+title: Scholarships, Sponsorships And Internships
 permalink: /careers/scholarships-sponsorships-and-internships/
 ---

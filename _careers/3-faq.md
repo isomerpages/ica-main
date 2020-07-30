@@ -1,4 +1,4 @@
 ---
-title: Faq
+title: FAQ
 permalink: /careers/faq/
 ---
