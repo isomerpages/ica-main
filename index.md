@@ -22,16 +22,7 @@ sections:
             - title: Page A
               description: Page A is important too
               url: /privacy/
-             - title: Page A
-              description: Page A is important too
-              url: /privacy/
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
+            - infobar:
         title: Infobar title
         subtitle: Subtitle
         description: About a sentence worth of description here
