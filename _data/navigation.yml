@@ -7,7 +7,7 @@
 logo: /images/ica-logo.svg
 
 links:
-  - title: FAQ
+  - title: FAQE
     url: /faq/
   - title: Who We Are
     collection: who-we-are
@@ -15,7 +15,7 @@ links:
     collection: careers
   - title: News And Publications
     resource_room: true
-   - title: test
+   
     
   
 
