@@ -28,7 +28,6 @@ sections:
         description: About a sentence worth of description here
         button: Button text
         url: /faq/
-    - resources: Careers
         title: Media
         subtitle: Learn more
         button: View More
