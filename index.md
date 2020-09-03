@@ -25,7 +25,7 @@ sections:
             - infobar:
         title: Infobar title
         subtitle: Subtitle
-        subtitle: demo
+        <!--can only have 1 subtitle -->
         description: About a sentence worth of description here
         button: Button text
         url: /faq/
