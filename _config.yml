@@ -24,6 +24,8 @@ collections:
     output: true
   careers:
     output: true
+     test:
+    output: true
 resources_name: news-and-publications
 
 ##################################################################################################################
