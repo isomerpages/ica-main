@@ -22,6 +22,9 @@ sections:
             - title: Page A
               description: Page A is important too
               url: /privacy/
+              - title: Highlight C
+              description: Important highlight A is important
+              url: https://google.com
             - infobar:
         title: Infobar title
         subtitle: Subtitle
