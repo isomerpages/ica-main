@@ -18,7 +18,10 @@ colors:
     - title: media-color-five
       color: '#c48c96'
 
+#Dropdown in homepage
+homepage_hero_i_want_to: true
 
+# For redirecting of page
 collections:
   who-we-are:
     output: true
