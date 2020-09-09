@@ -28,6 +28,14 @@ sections:
         description: About a sentence worth of description here
         button: Button text
         url: /faq/
+        hero-dropdown-text: "I am..."
+        i-want-to:
+        - title: A Singapore Citizen
+          url: https://ica.gov.sg/i-am-a-singapore-citizen/see-more
+        - title: A Permanent Resident
+          url: https://ica.gov.sg/i-am-a-permanent-resident/see-more
+        - title: A Pass Holder
+          url: https://ica.gov.sg/i-am-a-pass-holder/see-more
     - resources:
         title: Media
         subtitle: Learn more
