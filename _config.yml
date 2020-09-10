@@ -27,7 +27,7 @@ collections:
     output: true
   careers:
     output: true
-  summary-table-info:
+  view-summary-table:
     output: true
 resources_name: news-and-publications
 
