@@ -38,11 +38,11 @@ sections:
             - title: A Pass Holder
               url: https://www.ica.gov.sg/i-am-a-pass-holder/see-more
         - infobar:
-        title: Summary Table of Safe Travel Schemes and Passes
-        subtitle: / 
-        description: As Singapore progressively reopens amid the COVID-19 pandemic, Singapore has implemented special travel        arrangements with some countries/regions to facilitate travel while safeguarding public health.
-        button: View Summary Table Here
-        url: /summary-table-info
+            title: Summary Table of Safe Travel Schemes and Passes
+            subtitle: / 
+            description: As Singapore progressively reopens amid the COVID-19 pandemic, Singapore has implemented special travel        arrangements with some countries/regions to facilitate travel while safeguarding public health.
+            button: View Summary Table Here
+            url: /summary-table-info
     - resources:
         title: Media
         subtitle: Learn more
