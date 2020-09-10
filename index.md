@@ -37,9 +37,6 @@ sections:
               url: https://www.ica.gov.sg/i-am-a-permanent-resident/see-more
             - title: A Pass Holder
               url: https://www.ica.gov.sg/i-am-a-pass-holder/see-more
-       - infobar:
-            button: View Summary Table Here
-            url: /summary-table-info
     - resources:
         title: Media
         subtitle: Learn more
